@@ -1,0 +1,12 @@
+97c4d2b5af63b22aa152fc27e260713d *DESCRIPTION
+d3afc33a5b0907fa2466558d0821c512 *NAMESPACE
+28c54b1c92de4c8d32b4ce6a071839fe *R/bsrcv.R
+5743b5b724579552df90f0f0d965daf7 *R/ensemble.R
+152d9e50a8549ab5cc60d8f99a21e962 *R/krcv.R
+94941d696ac87062bc8c9376d69f01b4 *R/rcv.R
+5a5c7f0f19a4d19c2c2de4179ea4e164 *build/partial.rdb
+33e03c59e5f883aa76256b24dbac4336 *man/bsrcv.Rd
+45de65590cda77dbc9082b3e26a3daf6 *man/ensemble.Rd
+e064ad1fd1af6bada5d19d11b0b36e6c *man/krcv.Rd
+7a1333431d0759c2670ca37ffd494434 *man/rcv.Rd
+36ee335dbd80bd11864144c998ce4caa *man/varEst-package.Rd
